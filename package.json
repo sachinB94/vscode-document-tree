@@ -2,7 +2,8 @@
 	"name": "document-tree",
 	"displayName": "document-tree",
 	"description": "Generate document tree from selected HTML/JSX",
-	"version": "1.0.0",
+  "version": "1.0.0",
+  "publisher": "sachinb94",
 	"engines": {
 		"vscode": "^1.30.0"
 	},
@@ -37,5 +38,10 @@
 	},
 	"dependencies": {
 		"document-tree": "^1.0.1"
-	}
+  },
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/sachinB94/vscode-document-tree.git"
+  },
+  "license": "MIT"
 }
